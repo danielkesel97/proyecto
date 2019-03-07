@@ -1,0 +1,49 @@
+
+#darkness {
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8)),
+      url(img/LagerHaus/11.jpg);
+    height: 480px;
+    width: 720px;
+    
+}
+.c_feature_box .col-lg-4:last-child .c_boxNormal:before {
+  display: none;
+}
+
+.c_boxNormal {
+  padding: 0px 35px 0px 40px;
+  position: relative;
+}
+
+
+
+.c_boxNormal {
+  font-size: 20px;
+  color: #232d37;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  line-height: 36px;
+  padding-bottom: 10px;
+  -webkit-transition: all 400ms linear 0s;
+  -o-transition: all 400ms linear 0s;
+  transition: all 400ms linear 0s;
+}
+
+.c_boxNormal h4 i {
+  padding-right: 10px;
+  color: #2bc0a4;
+}
+
+.c_boxNormal h4:hover {
+  color: #2bc0a4;
+}
+
+.c_boxNormal p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #51545f;
+  font-family: "Poppins", sans-serif;
+}
